@@ -9,7 +9,7 @@ The overview of the architecture implemented by us is shown below:
 
 1. PyTorch, Standard Python Libraries
 
-2. WandB account to log the outputs on an MLOPs server
+2. WandB account to log the outputs on an MLOPs server. You need to use wandb key to login (wandb.login(key='**yourkey**')
 
 3. GPU for faster training (if available)
 
